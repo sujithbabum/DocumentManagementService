@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentManagementService", "DocumentManagementService\DocumentManagementService.csproj", "{707E912B-4258-46A4-8BA3-139C9D3FCCDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentManagementService.Tests", "DocumentManagementService.Tests\DocumentManagementService.Tests.csproj", "{8E498C40-00BF-4A55-8BE2-629874D26432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707E912B-4258-46A4-8BA3-139C9D3FCCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707E912B-4258-46A4-8BA3-139C9D3FCCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707E912B-4258-46A4-8BA3-139C9D3FCCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707E912B-4258-46A4-8BA3-139C9D3FCCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E498C40-00BF-4A55-8BE2-629874D26432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E498C40-00BF-4A55-8BE2-629874D26432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E498C40-00BF-4A55-8BE2-629874D26432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E498C40-00BF-4A55-8BE2-629874D26432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FFB9A1-2DEE-4D30-A9D7-F3E6C53EA188}
+	EndGlobalSection
+EndGlobal
